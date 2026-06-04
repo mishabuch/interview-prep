@@ -1,0 +1,10 @@
+echo "venv/" >> .gitignore
+echo ".ipynb_checkpoints/" >> .gitignore
+echo "*.pt" >> .gitignore
+echo "*.bin" >> .gitignore
+echo "__pycache__/" >> .gitignore
+venv/
+.ipynb_checkpoints/
+*.pt
+*.bin
+__pycache__/
